@@ -1,0 +1,18 @@
+{
+  "name": "djfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "go-ipfs-dep": "^0.4.17",
+    "ipfs": "^0.32.3",
+    "ipfs-api": "^25.0.0",
+    "ipfsd-ctl": "^0.39.5"
+  }
+}
